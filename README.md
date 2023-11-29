@@ -1,0 +1,5 @@
+[![Yo ho ho, welcome aboard!](https://img.shields.io/badge/Yo%20Ho%20Ho-Welcome%20Aboard!-brightgreen)](https://github.com/0sric)
+[![Pirate Coder](https://img.shields.io/badge/Pirate%20Coder-%E2%98%A0%EF%B8%8F%20Code%20or%20Walk%20the%20Plank-red)](https://github.com/0sric)
+[![Treasure Hunter](https://img.shields.io/badge/Treasure%20Hunter-%F0%9F%8F%B4%E2%80%8D%F0%9F%92%BC%20Seeker%20of%20Code%20Booty-orange)](https://github.com/0sric)
+[![Backend Buccaneer](https://img.shields.io/badge/Backend%20Buccaneer-%F0%9F%92%BB%20Master%20of%20the%20Seas%20of%20Code-blue)](https://github.com/0sric)
+[![Frontend Freebooter](https://img.shields.io/badge/Frontend%20Freebooter-%F0%9F%8E%AE%20Master%20of%20the%20UI%20Waves-lightblue)](https://github.com/0sric)
